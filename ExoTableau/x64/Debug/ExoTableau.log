@@ -1,0 +1,5 @@
+﻿  main.cpp
+  Tableau.cpp
+  Génération de code en cours...
+C:\Users\jacques\Documents\SN2\C++\ExoTableau\ExoTableau\Tableau.cpp(104,1): warning C4715: 'RecherchePos' : les chemins de contrôle ne retournent pas tous une valeur
+  ExoTableau.vcxproj -> C:\Users\jacques\Documents\SN2\C++\ExoTableau\x64\Debug\ExoTableau.exe
